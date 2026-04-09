@@ -5,7 +5,7 @@ seaborn
 nltk
 spacy
 textblob
-scikit-learn
+scikit-learn==1.6.1
 xgboost
 lightgbm
 tensorflow
